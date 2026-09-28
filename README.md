@@ -1,6 +1,15 @@
 # Fronts and Marine Heatwaves — GRL 2026
 
-This folder contains the code and supporting data used to reproduce figures in the submitted paper on marine heatwaves (MHWs) and atmospheric fronts.
+This folder contains the code and supporting data used to reproduce figures in the submitted paper:
+
+> **Atmospheric Fronts Modulate Marine Heatwave Evolution on the Northeast U.S. Continental Shelf**
+
+Svenja Ryan<sup>1</sup>, Finn Wimberly<sup>1,2</sup>, Rhys Parfitt<sup>3</sup>, Lukas L. Taenzer<sup>1,2,4</sup>, and Caroline C. Ummenhofer<sup>1</sup>
+
+<sup>1</sup> Woods Hole Oceanographic Institution, Woods Hole, MA, USA  
+<sup>2</sup> Massachusetts Institute of Technology, Cambridge, MA, USA  
+<sup>3</sup> Florida State University, Tallahassee, FL, USA  
+<sup>4</sup> Stockholm University, Stockholm, Sweden
 
 ## Folder overview
 
